@@ -13,6 +13,7 @@ User Interface: Simple and intuitive design for easy navigation.
 Notifications: Alerts users about expiring food items.  
 Food Listing: Displays expiring food from participating businesses at discounted rates.  
 Redistribution: Connects users with food items before they expire.
+Donation: Automatically donates the food items if the food items cross the threshold for e.
   
 Tech Stack  
 Flutter Flow: Used for building the user interface and app logic.  
