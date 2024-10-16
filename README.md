@@ -2,7 +2,7 @@
 
 Go to drive link : https://drive.google.com/file/d/1jV3PFoVApBCqPF4r7v2CS_2DhAVwxboD/view?usp=sharing4  
 Download the App in any ANDROID device  
-And checkout on how the foodsaverapp works  
+And checkout on how the foodsaverapp works!!!
   
 Description  
 The Food Saver App aims to reduce food waste by connecting supermarkets, hotels, and restaurants with individuals and organizations in need. The app leverages image processing algorithms to detect and list expiring food items at discounted prices, encouraging redistribution before they go to waste.
